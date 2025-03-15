@@ -1,4 +1,4 @@
-# Documentação do Sistema de Compartilhamento de Arquivos (SiCA)
+# Sistema de Compartilhamento de Arquivos (SiCA)
 
 ## 1. Introdução
 
