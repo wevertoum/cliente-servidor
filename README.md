@@ -15,7 +15,7 @@ O objetivo do SiCA é fornecer uma solução simples para:
 A estrutura de pastas do projeto é a seguinte:
 
 ```
-~/Doc/g/pu/cliente_servidor
+~/cliente_servidor
 ├── arquivos_servidor/        # Diretório dos arquivos recebidos
 │   └── filetosend1.txt       # Exemplo de arquivo enviado
 ├── cliente.py                # Código do programa cliente
